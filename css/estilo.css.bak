@@ -1,0 +1,30 @@
+/*Estilos gerais do cda tabela*/
+table{
+	border:solid 5px #D7DF01; 
+	width:1000px;
+	margin:auto;
+	border-collapse: collapse;
+	}
+/*Estilos gerais do cabeçalho da tabela*/
+thead{
+	border:solid 5px #D7DF01;
+	background: #273460;
+	color:#fff;
+	font-size:18pt;
+	height:60px;
+	}
+/*Estilos gerais da células da tabela*/
+td{
+	border:solid 5px #D7DF01; 
+	height: 200px;
+	background:#273460;
+	}
+/*Estilos gerais do corpo da tabela*/
+tbody{
+	color:#FF8000;
+	text-align:center;
+}
+/*Estilos gerais da página*/
+body {
+    background-color: #0e0e0e;
+}
